@@ -20,4 +20,4 @@ $ ./nowplaying
 API hosted at [localhost:3000/api/now-playing](http://localhost:3000/api/now-playing) by default.
 
 ## ToDo
-[ ] Choose port.
+- [ ] Choose port.
